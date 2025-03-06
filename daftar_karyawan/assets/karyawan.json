@@ -1,15 +1,15 @@
 [
     {
-    "nama": "Eddo Saputra",
-    "umur": 21,
+    "nama": "Kevin Kristian",
+    "umur": 19,
     "alamat": {
-      "jalan": "Jl. Karya Baru No. 10",
+      "jalan": "Jl. Kenten",
       "kota": "Palembang",
       "provinsi": "Sumatera Selatan"
     },
     "hobi": [
-      "Membaca",
-      "Bersepeda"
+      "Makan",
+      "Nonton"
     ]
   },
   {
